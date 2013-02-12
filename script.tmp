@@ -1,0 +1,3 @@
+#!/usr/bin/ksh
+
+echo "d ^SECURITY\n1\n1\ntw217\nTim Wilson\n\nwelcome1\nwelcome1\n\n\n\nepicuser\n\n\n\n\n\n\n\nh\n" | csession tst -U %SYS

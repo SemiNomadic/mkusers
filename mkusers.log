@@ -1,0 +1,243 @@
+
+Node: c1epctac01, Instance: POC
+
+%SYS>
+
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+Username to create? 
+Full name? 
+Comment? 
+Cache password? 
+Please enter the password again? 
+Enable user? Yes => Yes
+Change password on next login? No => No
+Expiration date (yyyy-mm-dd)? 
+Role to add? 
+Role to add? 
+Default namespace (Space for none)? 
+Mobile phone number for two-factor authentication (Space for none)? 
+Confirm creation of username tw217? Yes => Yes
+Username tw217 created
+
+Username to create? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+%SYS>
+
+*** preceding output for database poc
+
+
+
+Node: c1epctac01, Instance: SUP
+
+%SYS>
+
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+Username to create? 
+Full name? 
+Comment? 
+Cache password? 
+Please enter the password again? 
+Enable user? Yes => Yes
+Change password on next login? No => No
+Expiration date (yyyy-mm-dd)? 
+Role to add? 
+Role to add? 
+Default namespace (Space for none)? 
+Mobile phone number for two-factor authentication (Space for none)? 
+Confirm creation of username tw217? Yes => Yes
+Username tw217 created
+
+Username to create? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+%SYS>
+
+*** preceding output for database sup
+
+
+
+Node: c1epctac01, Instance: TST
+
+%SYS>
+
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+Username to create? 
+Full name? 
+Comment? 
+Cache password? 
+Please enter the password again? 
+Enable user? Yes => Yes
+Change password on next login? No => No
+Expiration date (yyyy-mm-dd)? 
+Role to add? 
+Role to add? 
+Default namespace (Space for none)? 
+Mobile phone number for two-factor authentication (Space for none)? 
+Confirm creation of username tw217? Yes => Yes
+Username tw217 created
+
+Username to create? 
+
+1) Create user
+2) Edit user
+3) List users
+4) Detailed list users
+5) Delete user
+6) Export users
+7) Import users
+8) Exit
+
+Option? 
+
+1) User setup
+2) Role setup
+3) Service setup
+4) Resource setup
+5) Application setup
+6) Auditing setup
+7) Domain setup
+8) SSL configuration setup
+9) Mobile phone service provider setup
+10) OpenAM Identity Services setup
+11) Encryption key setup
+12) System parameter setup
+13) Exit
+
+Option? 
+%SYS>
+
+*** preceding output for database tst
+
+
